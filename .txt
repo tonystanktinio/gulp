@@ -1,0 +1,5 @@
+yarn
+yarn add gulp-cli -g
+npm init -y
+yarn add gulp gulp-sass gulp-postcss cssnano gulp-terser browser-sync
+gulp
